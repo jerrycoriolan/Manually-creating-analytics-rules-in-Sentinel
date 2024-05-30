@@ -1,0 +1,1 @@
+# Manually-creating-analytics-rules-in-Sentinel
